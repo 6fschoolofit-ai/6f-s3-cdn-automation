@@ -17,8 +17,8 @@ env:
   BUCKET:   6f-webinar-demo-0809 
   BACKUP:   backups/index-previous.html
   REGION:   us-east-1
-  DIST_ID:  E2TL4YYNMDPBVK
-  SITE_URL: https://dg1pw5j6d45t0.cloudfront.net/
+  DIST_ID:  E1TGRKDZU5548R
+  SITE_URL: https://d206u9ftw4vi9r.cloudfront.net/
   MARKER:   SITE-OK
 
 jobs:
