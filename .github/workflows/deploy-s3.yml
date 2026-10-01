@@ -14,11 +14,11 @@ permissions:
 #dj
 env:
   FILE:     index.html
-  BUCKET:   6f-webinar-demo-0809 
+  BUCKET:   6f-oct-1-2026
   BACKUP:   backups/index-previous.html
-  REGION:   us-east-1
-  DIST_ID:  E1TGRKDZU5548R
-  SITE_URL: https://d206u9ftw4vi9r.cloudfront.net/
+  REGION:   ap-southeast-1
+  DIST_ID:  E37QAS8Q7X7WMG
+  SITE_URL: https://d2ymiia5hgbng8.cloudfront.net
   MARKER:   SITE-OK
 
 jobs:
