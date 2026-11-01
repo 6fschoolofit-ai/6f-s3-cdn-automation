@@ -17,8 +17,8 @@ env:
   BUCKET:   10-10-10aj
   BACKUP:   backups/index-previous.html
   REGION:   us-east-1
-  DIST_ID:  E1ELQC6EHI1YYN
-  SITE_URL: https://d31q4roktxxuds.cloudfront.net
+  DIST_ID:  E1OIHG6ZJPJB2J
+  SITE_URL: https://d2oqa3j4w8tbjq.cloudfront.net
   MARKER:   SITE-OK
 
 jobs:
